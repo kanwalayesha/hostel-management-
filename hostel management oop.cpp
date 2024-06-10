@@ -106,10 +106,7 @@ public:
     string phone_no[200];
     int cnic_no[200];
     string choice[200];
-   // string bill[200];
- //   string add_mess="10000";
-    //string hostel_charges="15000";
-  //  int s[200];
+
     
     void StudentInformation()
     {
